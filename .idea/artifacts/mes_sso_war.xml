@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mes-sso:war">
+    <output-path>$PROJECT_DIR$/mes-sso/target</output-path>
+    <root id="archive" name="mes-sso.war">
+      <element id="artifact" artifact-name="mes-sso:war exploded" />
+    </root>
+  </artifact>
+</component>

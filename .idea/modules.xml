@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mes-base/mes-base.iml" filepath="$PROJECT_DIR$/mes-base/mes-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-common/mes-common.iml" filepath="$PROJECT_DIR$/mes-common/mes-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-parent/mes-parent.iml" filepath="$PROJECT_DIR$/mes-parent/mes-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-sso/mes-sso.iml" filepath="$PROJECT_DIR$/mes-sso/mes-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-sso-query-api/mes-sso-query-api.iml" filepath="$PROJECT_DIR$/mes-sso-query-api/mes-sso-query-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-sso-query-service/mes-sso-query-service.iml" filepath="$PROJECT_DIR$/mes-sso-query-service/mes-sso-query-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-static/mes-static.iml" filepath="$PROJECT_DIR$/mes-static/mes-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-wms/mes-wms.iml" filepath="$PROJECT_DIR$/mes-wms/mes-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-wms/mes-wms-mapper/mes-wms-mapper.iml" filepath="$PROJECT_DIR$/mes-wms/mes-wms-mapper/mes-wms-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-wms/mes-wms-pojo/mes-wms-pojo.iml" filepath="$PROJECT_DIR$/mes-wms/mes-wms-pojo/mes-wms-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-wms/mes-wms-service/mes-wms-service.iml" filepath="$PROJECT_DIR$/mes-wms/mes-wms-service/mes-wms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mes-wms/mes-wms-web/mes-wms-web.iml" filepath="$PROJECT_DIR$/mes-wms/mes-wms-web/mes-wms-web.iml" />
+    </modules>
+  </component>
+</project>

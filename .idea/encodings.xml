@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mes-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-sso-query-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-sso-query-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-wms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-wms/mes-wms-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-wms/mes-wms-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-wms/mes-wms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mes-wms/mes-wms-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
